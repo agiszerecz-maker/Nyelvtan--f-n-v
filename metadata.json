@@ -1,0 +1,6 @@
+{
+  "name": "Főnévdetektív – A Varázszsák-küldetés",
+  "description": "Interaktív szabadulószoba a 3. osztályos magyar nyelvtan 'A főnevek titkos világa' (1. óra, Varázszsák-küldetés) tanórához.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
